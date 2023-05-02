@@ -33,7 +33,7 @@
             Add User
         </a>
         <br />
-        <a class="btn btn-outline-dark" style="display: flex; align-items: center; gap: 8px;">
+        <a href="Login.aspx" class="btn btn-outline-dark" style="display: flex; align-items: center; gap: 8px;">
             <i class="bi bi-person-x" style="font-size: 2rem; color: white;"></i>
             Log Out
         </a>

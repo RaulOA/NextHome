@@ -9,5 +9,9 @@ namespace NextHome.Vistas
 
         }
 
+        protected void btnLogin_ServerClick(object sender, EventArgs e)
+        {
+            Response.Redirect("Principal.aspx");
+        }
     }
 }
